@@ -10,7 +10,7 @@
     </li>
   </transition-group>
   </tran>
-</section>
+</section> 
 </template>
 
 <script>

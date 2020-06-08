@@ -17,7 +17,7 @@
 <script>
 import Modal from './common/Modal.vue'
 export default {
-  data(){
+  data(){ 
     return{
       newTodoItem: '',
       showModal: false
